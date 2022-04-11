@@ -13,4 +13,4 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Extroverted-introvert" alt="Extroverted-introvert" /></p>
 
-<img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=100 width="100%" />
+<img src="https://github.com/Extroverted-introvert/Extroverted-introvert/blob/main/violine.gif" height=200 width="100%" />
