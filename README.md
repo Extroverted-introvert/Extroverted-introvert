@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agustina&size=45&duration=2500&color=738BF7&center=true&width=600&height=100&lines=Data+Scientist;M.+L.+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+<p align="center"><img  src="https://readme-typing-svg.herokuapp.com?font=Agustina&size=45&duration=2500&color=738BF7&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;M.+L.+Engineer;Full+Stack+Developer" alt="Extroverted-introvert" /></p>
 <br>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Extroverted-introvert&show_icons=true&locale=en&layout=compact" alt="Extroverted-introvert" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Extroverted-introvert&show_icons=true&locale=en" alt="Extroverted-introvert" /></p>
