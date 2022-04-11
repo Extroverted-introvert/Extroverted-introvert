@@ -11,6 +11,6 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Extroverted-introvert&show_icons=true&locale=en&layout=compact" alt="Extroverted-introvert" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Extroverted-introvert&show_icons=true&locale=en" alt="Extroverted-introvert" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Extroverted-introvert" alt="Extroverted-introvert" /></p>
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Extroverted-introvert&point=738BF7FF&line=EACC45&theme=minimal" /></p>
+<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Extroverted-introvert&point=738BF7FF&line=fca903&theme=minimal" /></p>
 
 <img src="https://github.com/Extroverted-introvert/Extroverted-introvert/blob/main/violine.gif" height=200 width="100%" />
