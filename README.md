@@ -2,7 +2,7 @@
 
 <br>
 
-# 😎 Hey, I'm **Parth Tripathi**, Data Scientist | Full Stack Developer. 🔰 
+# 😎 Hey, I'm **Parth Tripathi**, Data Scientist | Full Stack Developer.
 
 <br>
 
